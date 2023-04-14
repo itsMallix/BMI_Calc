@@ -14,7 +14,7 @@ class homePage extends StatelessWidget {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Color(0x0ff8653F7),
-        title: Text('Hello $myUname'),
+        title: Text('Hello $user_username'),
         titleTextStyle: TextStyle(
           color: Colors.white,
           fontSize: 20,
